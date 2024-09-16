@@ -31,8 +31,8 @@ On Windows:
 ```
 .\venv\Scripts\activate.bat
 ```
-5. Navigate to your Spam-Email-Detector-main folder:
-6. Install Dependencies:
+5. Navigate to your **Spam-Email-Detector-main** folder:
+6. Install dependencies:
 ```
 pip3 install -r requirements.txt
 ```
